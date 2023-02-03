@@ -1,0 +1,31 @@
+{
+    "name": "@fsn/javascript-library",
+    "version": "0.0.1",
+    "description": "A set of javascript utils",
+    "main": "lib/es5/index.js",
+    "module": "lib/es6/index.js",
+    "sideEffects": false,
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fserapian/javascript-library.git"
+    },
+    "files": [
+        "lib",
+        "CHANGELOG.md",
+        "LICENCE",
+        "package.json",
+        "README.md"
+    ],
+    "keywords": [
+        "javascript",
+        "library",
+        "utils",
+        "utilities"
+    ],
+    "author": "Fadi Serapian",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fserapian/javascript-library/issues"
+    },
+    "homepage": "https://github.com/fserapian/javascript-library/issues#readme"
+}
